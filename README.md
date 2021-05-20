@@ -1,2 +1,1 @@
-# noscrollrepo
-No scrolling repository!
+# No scrolling repository!
